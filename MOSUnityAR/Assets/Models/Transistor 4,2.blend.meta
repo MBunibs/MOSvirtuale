@@ -1,0 +1,112 @@
+fileFormatVersion: 2
+guid: c1d93bb12ddf448d19f079748bb08f5c
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Alluminio
+    100002: Channel-stop
+    100004: Drain-Source
+    100006: Gate-Ossido
+    100008: Gate-Polisilicio
+    100010: Ossido_di_campo
+    100012: Ossido_di_silicio
+    100014: OssidoTop
+    100016: Substrato
+    100018: //RootNode
+    100020: Tungsteno
+    400000: Alluminio
+    400002: Channel-stop
+    400004: Drain-Source
+    400006: Gate-Ossido
+    400008: Gate-Polisilicio
+    400010: Ossido_di_campo
+    400012: Ossido_di_silicio
+    400014: OssidoTop
+    400016: Substrato
+    400018: //RootNode
+    400020: Tungsteno
+    2300000: Alluminio
+    2300002: Channel-stop
+    2300004: Drain-Source
+    2300006: Gate-Ossido
+    2300008: Gate-Polisilicio
+    2300010: Ossido_di_campo
+    2300012: Ossido_di_silicio
+    2300014: OssidoTop
+    2300016: Substrato
+    2300018: Tungsteno
+    3300000: Alluminio
+    3300002: Channel-stop
+    3300004: Drain-Source
+    3300006: Gate-Ossido
+    3300008: Gate-Polisilicio
+    3300010: Ossido_di_campo
+    3300012: Ossido_di_silicio
+    3300014: OssidoTop
+    3300016: Substrato
+    3300018: Tungsteno
+    4300000: Alluminio
+    4300002: Tungsteno
+    4300004: Gate-Polisilicio
+    4300006: Gate-Ossido
+    4300008: Drain-Source
+    4300010: Channel-stop
+    4300012: Substrato
+    4300014: OssidoTop
+    4300016: Ossido_di_campo
+    4300018: Ossido_di_silicio
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

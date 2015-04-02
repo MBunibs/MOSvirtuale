@@ -1,0 +1,22 @@
+L'app nasce come applicazione didattica per facilitare lo studio della struttura interna di un transistor MOS ideale.
+Permette di osservare le sezioni verticali del MOS rispetto al layout sottostante in modo da apprezzarne la struttura fisica.
+
+Funzionalità
+- i 6 bottoni quadrati attorno al MOS permettono di scegliere la sezione da mostrare
+- il bottone tondo permette di mostrare, in alternanza, la vista completa e la vista senza l'ossido
+
+Target download:
+https://developer.vuforia.com/sites/default/files/sample-apps/targets/imagetargets_targets.pdf
+
+Istruzioni
+- Punta la camera verso il target per mostrare i contenuti
+- Singolo tap per la messa a fuoco
+- Doppio tap per accedere al menù opzioni
+
+Terms of Use
+https://developer.vuforia.com/legal/EULA
+
+Autore: Marco Bianchetti
+
+Copyright © 2015 Qualcomm Connected Experiences, Inc. All Rights Reserved.
+Copyright © 2015 Unity Technologies All Rights Reserved.
